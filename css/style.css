@@ -429,7 +429,7 @@ background-position: center center;
         }
         .user-info {
             text-align: center;
-            padding: 20px 0;
+            padding: 50px 0;
             background-color: #f8f9fa;
             border-bottom: 1px solid #e9ecef;
         }
@@ -2170,5 +2170,6 @@ ul.location_icon span {
 .special-page .relative  {text-align:center !important; }
 
 .special-page .footer {margin-top: 90px;}
+
 
 
